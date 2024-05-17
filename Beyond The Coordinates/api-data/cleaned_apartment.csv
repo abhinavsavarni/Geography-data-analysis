@@ -1,0 +1,7 @@
+,title,address.label,distance,access,position.lat,position.lng,address.postalCode,id
+0,Homeland,"Homeland, Sector 70, Mohali 160071, India",20173,"[{'lat': 30.69235, 'lng': 76.71079}]",30.69236,76.71081,160071,here:pds:place:356ttqw9-8a12b0db0b814d3dbce2f6b27dfa8879
+1,Sunrise Complex,"Sunrise Complex, Sunrise Complex, Zirakpur 140603, India",20347,"[{'lat': 30.64018, 'lng': 76.81562}]",30.64036,76.81561,140603,here:pds:place:356ttqwk-dd34da153de3e8d9329a5fd806b1491f
+2,Motiaz Royal Citi,"Motiaz Royal Citi, Vishranti City, Vill Ghazipur, Zirakpur 140603, India",20668,"[{'lat': 30.63332, 'lng': 76.82739}]",30.63332,76.82709,140603,here:pds:place:356ttqw7-8fae1ca1f4bb4340a7e966226d733fb4
+3,World High Street,"World High Street, Sector 115, Mohali 140301, India",22309,"[{'lat': 30.71703, 'lng': 76.65341}]",30.71703,76.65357,140301,here:pds:place:356ttqw8-33a2bab5fc18c79c9e859585d1810e7b
+4,Golden Homes,"Golden Homes, Kharar Landran Road, Sector 115, Mohali 140301, India",23289,"[{'lat': 30.72551, 'lng': 76.65015}]",30.72579,76.65119,140301,here:pds:place:356ttqwb-eb91361cab7cbcedc18c6b32991612c4
+5,Gillco Heights,"Gillco Heights, Gillco Towers, Kharar 140301, India",24572,"[{'lat': 30.73714, 'lng': 76.64939}]",30.73728,76.64937,140301,here:pds:place:356ttqwb-c7ab311bbd1e409fa36cd0a06cad33e2
